@@ -1,0 +1,17 @@
+{
+    "name": "ShadowSage-BOT",
+    "owner": ["628xxxxxxxxxx"],
+    "premium": ["628xxxxxxxxxx"],
+    "number": "628xxxxxxxxxx",
+    "creator": "YourName",
+    "api": "wwebjs",
+    "wwebjs": {
+        "chromePath": "",
+        "ffmpegPath": "",
+        "headless": true
+    },
+    "baileys": {
+        "authFolder": "auth_baileys",
+        "pairingNumber": ""
+    }
+}

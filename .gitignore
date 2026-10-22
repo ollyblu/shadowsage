@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Sesi login WhatsApp (KREDENSIAL — jangan pernah publish)
+.wwebjs_auth/
+.wwebjs_cache/
+auth_baileys/
+
+# Data runtime berisi PII (nomor HP asli). Versi *.example.json tetap ikut.
+app/settings/data.json
+app/database/*.json
+!app/database/*.example.json
+app/urgent/
+app/saved/
+app/temp/
+/database.json
+/chat.json
+/mmsg.json
+/msgC.json
+
+# Rahasia
+.env
+
+# Arsip lokal & file sampah
+_archive/
+*.exe
+*.cpuprofile
+*.out
+
+# OS / editor
+desktop.ini
+Thumbs.db
+.DS_Store

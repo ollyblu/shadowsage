@@ -1,0 +1,327 @@
+[
+  {
+    "soal": "🕷️👨",
+    "tipe": "Film",
+    "jawaban": "spiderman"
+  },
+  {
+    "soal": "🦇👨",
+    "tipe": "Film",
+    "jawaban": "batman"
+  },
+  {
+    "soal": "❄️👸",
+    "tipe": "Film",
+    "jawaban": "frozen"
+  },
+  {
+    "soal": "🦁👑",
+    "tipe": "Film",
+    "jawaban": "lion king"
+  },
+  {
+    "soal": "🚢🧊💔",
+    "tipe": "Film",
+    "jawaban": "titanic"
+  },
+  {
+    "soal": "🧸🍯",
+    "tipe": "Kartun",
+    "jawaban": "winnie the pooh"
+  },
+  {
+    "soal": "🐠🔍",
+    "tipe": "Film",
+    "jawaban": "finding nemo"
+  },
+  {
+    "soal": "👻🔫",
+    "tipe": "Film",
+    "jawaban": "ghostbusters"
+  },
+  {
+    "soal": "🦖🏝️",
+    "tipe": "Film",
+    "jawaban": "jurassic park"
+  },
+  {
+    "soal": "🧙‍♂️💍🌋",
+    "tipe": "Film",
+    "jawaban": "lord of the rings"
+  },
+  {
+    "soal": "🐼🥋",
+    "tipe": "Film",
+    "jawaban": "kung fu panda"
+  },
+  {
+    "soal": "🤖🚗",
+    "tipe": "Film",
+    "jawaban": "transformers"
+  },
+  {
+    "soal": "🧽🍍",
+    "tipe": "Kartun",
+    "jawaban": "spongebob"
+  },
+  {
+    "soal": "👦⚡🧙",
+    "tipe": "Film",
+    "jawaban": "harry potter"
+  },
+  {
+    "soal": "🏴‍☠️🚢🦜",
+    "tipe": "Film",
+    "jawaban": "pirates of the caribbean"
+  },
+  {
+    "soal": "🍚🍳",
+    "tipe": "Makanan",
+    "jawaban": "nasi goreng"
+  },
+  {
+    "soal": "🍜🐔",
+    "tipe": "Makanan",
+    "jawaban": "mie ayam"
+  },
+  {
+    "soal": "🍢🥜",
+    "tipe": "Makanan",
+    "jawaban": "sate"
+  },
+  {
+    "soal": "🥚🍜",
+    "tipe": "Makanan",
+    "jawaban": "indomie telur"
+  },
+  {
+    "soal": "🍌🍳",
+    "tipe": "Makanan",
+    "jawaban": "pisang goreng"
+  },
+  {
+    "soal": "🍞🍫",
+    "tipe": "Makanan",
+    "jawaban": "roti cokelat"
+  },
+  {
+    "soal": "🧊🍵",
+    "tipe": "Minuman",
+    "jawaban": "es teh"
+  },
+  {
+    "soal": "🥥💧",
+    "tipe": "Minuman",
+    "jawaban": "air kelapa"
+  },
+  {
+    "soal": "☕🥛",
+    "tipe": "Minuman",
+    "jawaban": "kopi susu"
+  },
+  {
+    "soal": "🐟🔥",
+    "tipe": "Makanan",
+    "jawaban": "ikan bakar"
+  },
+  {
+    "soal": "🐍📱",
+    "tipe": "Game",
+    "jawaban": "snake"
+  },
+  {
+    "soal": "🐦😡",
+    "tipe": "Game",
+    "jawaban": "angry birds"
+  },
+  {
+    "soal": "🍬💥",
+    "tipe": "Game",
+    "jawaban": "candy crush"
+  },
+  {
+    "soal": "⛏️🧱",
+    "tipe": "Game",
+    "jawaban": "minecraft"
+  },
+  {
+    "soal": "🔫🏝️🐔",
+    "tipe": "Game",
+    "jawaban": "pubg"
+  },
+  {
+    "soal": "⭐🐟",
+    "tipe": "Hewan",
+    "jawaban": "bintang laut"
+  },
+  {
+    "soal": "🐴🦓",
+    "tipe": "Hewan",
+    "jawaban": "zebra"
+  },
+  {
+    "soal": "🌊🐴",
+    "tipe": "Hewan",
+    "jawaban": "kuda laut"
+  },
+  {
+    "soal": "🐱🌊",
+    "tipe": "Hewan",
+    "jawaban": "ikan pari"
+  },
+  {
+    "soal": "🦅🇮🇩",
+    "tipe": "Simbol",
+    "jawaban": "garuda"
+  },
+  {
+    "soal": "🌧️🌈",
+    "tipe": "Alam",
+    "jawaban": "pelangi"
+  },
+  {
+    "soal": "🌋🔥",
+    "tipe": "Alam",
+    "jawaban": "gunung berapi"
+  },
+  {
+    "soal": "🌊🌊🌊😱",
+    "tipe": "Alam",
+    "jawaban": "tsunami"
+  },
+  {
+    "soal": "☀️🌑",
+    "tipe": "Alam",
+    "jawaban": "gerhana matahari"
+  },
+  {
+    "soal": "❄️⛄",
+    "tipe": "Benda",
+    "jawaban": "boneka salju"
+  },
+  {
+    "soal": "🏠🏥",
+    "tipe": "Tempat",
+    "jawaban": "rumah sakit"
+  },
+  {
+    "soal": "📚🏫",
+    "tipe": "Tempat",
+    "jawaban": "sekolah"
+  },
+  {
+    "soal": "🛒🏬",
+    "tipe": "Tempat",
+    "jawaban": "supermarket"
+  },
+  {
+    "soal": "✈️🛫",
+    "tipe": "Tempat",
+    "jawaban": "bandara"
+  },
+  {
+    "soal": "🕌🌙",
+    "tipe": "Tempat",
+    "jawaban": "masjid"
+  },
+  {
+    "soal": "👨‍⚕️💉",
+    "tipe": "Profesi",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "👮‍♂️🚓",
+    "tipe": "Profesi",
+    "jawaban": "polisi"
+  },
+  {
+    "soal": "👨‍🍳🍳",
+    "tipe": "Profesi",
+    "jawaban": "koki"
+  },
+  {
+    "soal": "👨‍🚒🔥",
+    "tipe": "Profesi",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "👨‍🏫📖",
+    "tipe": "Profesi",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "🎂🎉🕯️",
+    "tipe": "Acara",
+    "jawaban": "ulang tahun"
+  },
+  {
+    "soal": "💍👰🤵",
+    "tipe": "Acara",
+    "jawaban": "pernikahan"
+  },
+  {
+    "soal": "🇮🇩🎆17",
+    "tipe": "Acara",
+    "jawaban": "hari kemerdekaan"
+  },
+  {
+    "soal": "🌙🍽️⏰",
+    "tipe": "Acara",
+    "jawaban": "sahur"
+  },
+  {
+    "soal": "🎒🏫🌅",
+    "tipe": "Kegiatan",
+    "jawaban": "berangkat sekolah"
+  },
+  {
+    "soal": "⏰😴",
+    "tipe": "Kejadian",
+    "jawaban": "bangun kesiangan"
+  },
+  {
+    "soal": "🐢🐇🏁",
+    "tipe": "Dongeng",
+    "jawaban": "kancil dan kura kura"
+  },
+  {
+    "soal": "👸🍎😴",
+    "tipe": "Dongeng",
+    "jawaban": "putri salju"
+  },
+  {
+    "soal": "👠🕛🎃",
+    "tipe": "Dongeng",
+    "jawaban": "cinderella"
+  },
+  {
+    "soal": "🐸👑💋",
+    "tipe": "Dongeng",
+    "jawaban": "pangeran katak"
+  },
+  {
+    "soal": "🌧️☂️",
+    "tipe": "Benda",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "📱🔋0️⃣",
+    "tipe": "Kejadian",
+    "jawaban": "hp lowbat"
+  },
+  {
+    "soal": "💡❓",
+    "tipe": "Ungkapan",
+    "jawaban": "ide"
+  },
+  {
+    "soal": "💔😭",
+    "tipe": "Ungkapan",
+    "jawaban": "patah hati"
+  },
+  {
+    "soal": "🔥🔥🔥",
+    "tipe": "Ungkapan",
+    "jawaban": "semangat"
+  }
+]
