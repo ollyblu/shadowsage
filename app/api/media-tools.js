@@ -8,7 +8,7 @@ const { createCanvas, loadImage, registerFont } = require('canvas')
 const impact = [
     process.env.WINDIR && path.join(process.env.WINDIR, 'Fonts', 'impact.ttf'),
     '/usr/share/fonts/truetype/msttcorefonts/Impact.ttf',
-    path.join(__dirname, '..', 'library', 'impact.ttf'),
+    path.join(__dirname, '..', 'library', 'Anton-Regular.ttf'), // pengganti berlisensi OFL
 ].find(p => p && fs.existsSync(p))
 if (impact) try { registerFont(impact, { family: 'Impact' }) } catch { }
 

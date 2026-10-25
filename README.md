@@ -216,4 +216,15 @@ File berikut **tidak** ikut ke repo (lihat [`.gitignore`](.gitignore)) karena be
 
 ## 📜 Lisensi
 
-Dirilis di bawah lisensi **[GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html)**
+Dirilis di bawah lisensi **[GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html)** - teks lengkap ada di [`LICENSE`](LICENSE).
+
+Proyek ini merupakan versi termodifikasi dari [Anon-BOT](https://github.com/balhisyhrl/Anon-BOT) (GPL-3.0) oleh balhisyhrl.
+Modifikasi dan pengembangan lanjutan © 2025–2026 ollyblu.
+
+### Komponen Pihak Ketiga
+
+| Komponen | Lokasi | Lisensi |
+|---|---|---|
+| [lowdb](https://github.com/typicode/lowdb) © typicode | `app/api/lowdb/` | MIT ([`LICENSE`](app/api/lowdb/LICENSE)) |
+| [Anton](https://github.com/googlefonts/AntonFont) © The Anton Project Authors | `app/library/Anton-Regular.ttf` | SIL OFL 1.1 ([`Anton-OFL.txt`](app/library/Anton-OFL.txt)) |
+| Dependensi npm | `package.json` | Lisensi masing-masing paket |

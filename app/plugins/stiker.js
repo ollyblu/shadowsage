@@ -1,11 +1,11 @@
 const { createCanvas, loadImage, registerFont } = require('canvas')
 const path = require('path')
 const fs = require('fs')
-// Utamakan font Impact bawaan sistem (Windows); file di library dipakai sebagai cadangan
+// Utamakan font Impact bawaan sistem (Windows); Anton (OFL) di library dipakai sebagai cadangan
 const fontPath = [
     process.env.WINDIR && path.join(process.env.WINDIR, 'Fonts', 'impact.ttf'),
     '/usr/share/fonts/truetype/msttcorefonts/Impact.ttf',
-    path.join(__dirname, '..', 'library', 'impact.ttf'),
+    path.join(__dirname, '..', 'library', 'Anton-Regular.ttf'), // pengganti berlisensi OFL
 ].find(p => p && fs.existsSync(p))
 registerFont(fontPath, { family: 'Impact' })
 
